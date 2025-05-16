@@ -48,7 +48,7 @@ Enter the name of the encrypted file when prompted.
 - **Regularly update dependencies** to ensure security vulnerabilities are patched.
 
 ## **License**
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. 
 
 ## **Contributing**
 Contributions are welcome!
