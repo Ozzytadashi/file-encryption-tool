@@ -1,3 +1,5 @@
+This is simple encryption project I made for myself to help me understand some basic concepts. 
+---
 # **File Encryption Tool**
 
 ## **Overview**
